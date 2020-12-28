@@ -99,7 +99,9 @@ npm run build
 
 cdk synth
 
-cdk bootstrap aws://${your-aws-id}/${your-region-todeploy}
+##cdk bootstrap aws://${your-aws-id}/${your-region-todeploy}
+cdk bootstrap
+
 
 cdk deploy CoffeeShopCodePipeline 
 ```
