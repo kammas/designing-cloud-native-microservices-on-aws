@@ -7,6 +7,8 @@ import java.time.Duration;
 
 public class SSMTest {
 
+    //comment
+
     @Test
     public void ssmTest() {
 
